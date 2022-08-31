@@ -1,0 +1,92 @@
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe.config
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\bin\Debug\Redip0.1.pdb
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\bin\Debug\Redip0.1.xml
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbprojAssemblyReference.cache
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\obj\Debug\Redip0._1.frm00.resources
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Resources.resources
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.GenerateResource.cache
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.CoreCompileInputs.cache
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\obj\Debug\Redip0.1.exe
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\obj\Debug\Redip0.1.xml
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\obj\Debug\Redip0.1.pdb
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm01.resources
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe.config
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\bin\Debug\Redip0.1.pdb
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\bin\Debug\Redip0.1.xml
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbprojAssemblyReference.cache
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0._1.frm00.resources
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm01.resources
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Resources.resources
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.GenerateResource.cache
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.CoreCompileInputs.cache
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0.1.exe
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0.1.xml
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0.1.pdb
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm02Ventas.resources
+C:\Users\SMSUser\Desktop\Neje No borrar\A - PERSONAL\je\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm03Consultas.resources
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe.config
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.pdb
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.xml
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.AssemblyReference.cache
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.frm00.resources
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm01.resources
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm02Ventas.resources
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm03Consultas.resources
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Resources.resources
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.GenerateResource.cache
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.CoreCompileInputs.cache
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.exe
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.xml
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.pdb
+C:\Users\nehem\OneDrive\Escritorio\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm04Reportes.resources
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe.config
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.pdb
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.xml
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbprojAssemblyReference.cache
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.frm00.resources
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm01.resources
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm02Ventas.resources
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm03Consultas.resources
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm04Reportes.resources
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Resources.resources
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.GenerateResource.cache
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.CoreCompileInputs.cache
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.exe
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.xml
+C:\Users\Erica\Downloads\Redip0.1 (3)\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.pdb
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbprojAssemblyReference.cache
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.frm00.resources
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm01.resources
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm02Ventas.resources
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm03Consultas.resources
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm04Reportes.resources
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Resources.resources
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.GenerateResource.cache
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.CoreCompileInputs.cache
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.exe
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.xml
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.pdb
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe.config
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.pdb
+C:\Users\SMSUser\Desktop\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.xml
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe.config
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.exe
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.pdb
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\bin\Debug\Redip0.1.xml
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.AssemblyReference.cache
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.frm00.resources
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm01.resources
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm02Ventas.resources
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm03Consultas.resources
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Frm04Reportes.resources
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0._1.Resources.resources
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.GenerateResource.cache
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.vbproj.CoreCompileInputs.cache
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.exe
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.xml
+C:\Users\nehem\OneDrive\Escritorio\IES NEJE\INFORMATICA\Semestre_03\PARCTICA 1\Proyectos PP1\Redip0.1\Redip0.1\Redip0.1\obj\Debug\Redip0.1.pdb
